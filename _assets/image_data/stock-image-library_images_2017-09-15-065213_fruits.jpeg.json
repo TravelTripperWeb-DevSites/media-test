@@ -1,0 +1,16 @@
+{
+  "name": "fruits",
+  "file_name": "fruits.jpeg",
+  "file_type": "image/jpeg",
+  "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/stock-image-library/images/2017-09-15-065213/fruits.jpeg",
+  "tags": "",
+  "file_size": 14640.0,
+  "width": 259,
+  "height": 194,
+  "description": "",
+  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/stock-image-library/images/2017-09-15-065213/large_fruits.jpeg",
+  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/stock-image-library/images/2017-09-15-065213/medium_fruits.jpeg",
+  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/stock-image-library/images/2017-09-15-065213/small_fruits.jpeg",
+  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/stock-image-library/images/2017-09-15-065213/xsmall_fruits.jpeg",
+  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/stock-image-library/images/2017-09-15-065213/thumb_fruits.jpeg"
+}
