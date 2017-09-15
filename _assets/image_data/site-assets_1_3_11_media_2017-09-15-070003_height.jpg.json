@@ -1,0 +1,16 @@
+{
+  "name": "height",
+  "file_name": "height.jpg",
+  "file_type": "image/jpeg",
+  "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_3_11/media/2017-09-15-070003/height.jpg",
+  "tags": "",
+  "file_size": 56371.0,
+  "width": 481,
+  "height": 640,
+  "description": "",
+  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_3_11/media/2017-09-15-070003/large_height.jpg",
+  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_3_11/media/2017-09-15-070003/medium_height.jpg",
+  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_3_11/media/2017-09-15-070003/small_height.jpg",
+  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_3_11/media/2017-09-15-070003/xsmall_height.jpg",
+  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_3_11/media/2017-09-15-070003/thumb_height.jpg"
+}
